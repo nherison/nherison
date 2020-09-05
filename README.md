@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there!👋  [![HitCount](http://hits.dwyl.com/yanikus/yanikus.svg)](http://hits.dwyl.com/yanikus/yanikus)
+
+![yanikus's github stats](https://github-readme-stats.vercel.app/api?username=yanikus&count_private=true&show_icons=true&theme=radical)
+
+## Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanikus&layout=compact)
 
 <!--
-**yanikus/yanikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
