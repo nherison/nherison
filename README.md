@@ -1,4 +1,4 @@
-### Hi there!👋  [![HitCount](http://hits.dwyl.com/yanikus/yanikus.svg)](http://hits.dwyl.com/yanikus/yanikus)
+### Hi there!👋 
 
 ![yanikus's github stats](https://github-readme-stats.vercel.app/api?username=yanikus&count_private=true&show_icons=true&theme=radical)
 
