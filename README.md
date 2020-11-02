@@ -1,10 +1,10 @@
 ### Hi there!👋 
 
-![yanikus's github stats](https://github-readme-stats.vercel.app/api?username=yanikus&count_private=true&show_icons=true&theme=radical)
+![yanikus's github stats](https://github-readme-stats.vercel.app/api?username=nherison&count_private=true&show_icons=true&theme=radical)
 
 ## Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanikus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nherison&layout=compact)
 
 <!--
 Here are some ideas to get you started:
